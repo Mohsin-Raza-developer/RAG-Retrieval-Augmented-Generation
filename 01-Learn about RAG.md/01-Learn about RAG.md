@@ -1,5 +1,8 @@
 ### **What is Retrieval-Augmented Generation (RAG)?**  
 #
+
+![What is Retrieval-Augmented Generation (RAG)?](.01-Learn about RAG.md\rag-image.jpg.jpg)
+
 **Retrieval-Augmented Generation (RAG)** is an **AI technique** that combines **retrieval-based search** with **generative AI models** to generate more **accurate** and **context-aware** responses.  
 
 ### **Breaking Down "Retrieval-Augmented Generation" (RAG)**  
